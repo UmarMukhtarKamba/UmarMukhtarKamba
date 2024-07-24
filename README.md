@@ -1,5 +1,5 @@
 -👋 Hi, I’m @UmarMukhtarKamba
--👀 I’m interested in accessibility in technology and mobile app development. I also work with C#, Java, and JavaScript.
+-👀 I’m interested in accessibility in technology and mobile app development. I also work with C#, Java, python and JavaScript.
 -🌱 I’m currently learning Flutter and Dart to develop an audiobook app for students with reading disabilities.
 -💞️ I’m looking to collaborate on projects that make education more accessible.
 -📫 How to reach me: Private.
